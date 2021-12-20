@@ -1,0 +1,19 @@
+.navbar, #home{
+    background: linear-gradient(to right, #ad5389, #3c1053);
+}
+
+#home{
+padding: 5% 0;
+}
+
+.border-3{
+    border-color: #ad5389 !important
+}
+
+footer{
+    background: linear-gradient(to right, #ad5389, #3c1053);
+}
+
+
+
+
